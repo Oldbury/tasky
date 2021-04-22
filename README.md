@@ -1,1 +1,1 @@
-# nextjs-tailwind-typescript-boilerplate
+# Super cool to do list app
